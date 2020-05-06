@@ -30,6 +30,9 @@
           "_pivot"
         ]
       }
+    ],
+    "no-param-reassign": [
+      "off"
     ]
   }
 }
